@@ -1,5 +1,7 @@
-# jekyll-firebase
-A Jekyll Site with support for user login via Firebase
+# Jekyll-Firebase
+A Jekyll Site with support for user login via Firebase.
+
+Firebase supports login using email, Google, Facebook, Twitter, GitHub, or anonymously.
 
 
 
