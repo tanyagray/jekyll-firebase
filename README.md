@@ -1,7 +1,9 @@
 # Jekyll-Firebase
-A Jekyll Site with support for user login via Firebase.
+
+A Jekyll Site with support for user login via Firebase. This means you can run a static site on GitHub Pages and still support some basic login functionality, by outsourcing all of your sign in and storage of user data to Firebase.
 
 Firebase supports login using email, Google, Facebook, Twitter, GitHub, or anonymously.
+
 
 
 ## Setup
