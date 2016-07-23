@@ -10,6 +10,7 @@ Firebase supports login using email, Google, Facebook, Twitter, GitHub, or anony
 
 For this site to work correctly you will need to:
 
+- Fork this project
 - Create a Firebase account and project
 - Modify the `firebase-config.js` file with your own details
 - Authorise your site's domain
