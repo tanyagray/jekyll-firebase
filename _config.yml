@@ -1,0 +1,7 @@
+# Where things are
+source:       .
+destination:  ./_site
+layouts_dir:  ./theme/_layouts
+includes_dir: ./theme/_includes
+sass:
+    sass_dir: ./theme/_sass
