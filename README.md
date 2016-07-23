@@ -4,6 +4,15 @@ A Jekyll Site with support for user login via Firebase.
 Firebase supports login using email, Google, Facebook, Twitter, GitHub, or anonymously.
 
 
+## Setup
+
+For this site to work correctly you will need to:
+
+- Create a Firebase account and project
+- Modify the `firebase-config.js` file with your own details
+- Authorise your site's domain
+
+
 
 ## Authorise Your Domain
 
