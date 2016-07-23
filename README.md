@@ -14,6 +14,8 @@ For this site to work correctly you will need to:
 - Modify the `firebase-config.js` file with your own details
 - Authorise your site's domain
 
+Instructions for completing these requirements are included below.
+
 
 
 ## Authorise Your Domain
